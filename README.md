@@ -1,3 +1,8 @@
+## Repository
+
+Source code project FinTrack dapat diakses melalui GitHub:
+
+[FinTrack - GitHub Repository](https://github.com/samsurrizal10-prog/Eligible_Test_FinTrack)
 # FinTrack – Personal Finance Management System
 
 FinTrack is a web-based personal finance management application built to help users manage their daily finances. Users can record income and expenses, organize transactions into categories, manage budgets, and track personal savings goals.
@@ -83,7 +88,7 @@ Each user's financial records are associated with their account to ensure data s
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/samsurrizal10-prog/Eligible_Test_FinTrack.git>
 cd FinTrack
 ```
 
